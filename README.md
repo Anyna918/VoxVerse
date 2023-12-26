@@ -54,6 +54,8 @@ VoxVerse 是一个语音创新平台，结合了先进的语音模拟技术和 A
 
 [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容](https://github.com/babysor/MockingBird)
 
+### 预训练模型：阿里云盘https://www.alipan.com/s/sSdgLa2xihg
+
 ## 贡献
 
 我们欢迎所有形式的贡献，无论是新功能、文档改进，还是问题报告，均欢迎大家进行交流
